@@ -20,7 +20,7 @@ services:
   disqus:
     shortname: ""
   googleAnalytics:
-    id:
+    id: G-XRPLQPWVHJ
 
 pagination:
   pagerSize: 3
