@@ -1,0 +1,15 @@
+.article-thumbnail {
+  margin-bottom: 1rem;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+}
+
+.has-thumbnail {
+  display: flex;
+  flex-direction: column;
+}
