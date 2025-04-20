@@ -1,25 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/ar/sitemap.xml</loc>
-    
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://stvpj.com/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/categories/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/tags/data/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/categories/decision-making/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/tags/intuition/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/tags/pm-tips/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/post/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/tags/product-management/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/categories/product-thinking/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/tags/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/p/why-product-managers-should-trust-their-gut-when-data-falls-short/</loc>
+    <lastmod>2025-04-20T09:08:36+01:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://stvpj.com/about-me/</loc>
+  </url><url>
+    <loc>https://stvpj.com/links/</loc>
+  </url><url>
+    <loc>https://stvpj.com/search/</loc>
+  </url><url>
+    <loc>https://stvpj.com/categories/test/</loc>
+  </url>
+</urlset>

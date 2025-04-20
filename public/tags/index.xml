@@ -1,66 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Example Site</title>
-        <link>http://localhost:1313/tags/</link>
-        <description>Recent content in Tags on Example Site</description>
+        <title>Tags on Steve&#39;s Blog</title>
+        <link>https://stvpj.com/tags/</link>
+        <description>Recent content in Tags on Steve&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <copyright>Steve</copyright>
+        <lastBuildDate>Sun, 20 Apr 2025 09:08:36 +0100</lastBuildDate><atom:link href="https://stvpj.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Data</title>
+        <link>https://stvpj.com/tags/data/</link>
+        <pubDate>Sun, 20 Apr 2025 09:08:36 +0100</pubDate>
         
-        <guid>http://localhost:1313/tags/css/</guid>
+        <guid>https://stvpj.com/tags/data/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Intuition</title>
+        <link>https://stvpj.com/tags/intuition/</link>
+        <pubDate>Sun, 20 Apr 2025 09:08:36 +0100</pubDate>
         
-        <guid>http://localhost:1313/tags/html/</guid>
+        <guid>https://stvpj.com/tags/intuition/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>PM Tips</title>
+        <link>https://stvpj.com/tags/pm-tips/</link>
+        <pubDate>Sun, 20 Apr 2025 09:08:36 +0100</pubDate>
         
-        <guid>http://localhost:1313/tags/markdown/</guid>
+        <guid>https://stvpj.com/tags/pm-tips/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Product Management</title>
+        <link>https://stvpj.com/tags/product-management/</link>
+        <pubDate>Sun, 20 Apr 2025 09:08:36 +0100</pubDate>
         
-        <guid>http://localhost:1313/tags/themes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>http://localhost:1313/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/emoji/</guid>
+        <guid>https://stvpj.com/tags/product-management/</guid>
         <description></description>
         </item>
         

@@ -1,37 +1,13 @@
 ---
-title: Links
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+title: "Links"
 menu:
-    main: 
-        weight: -50
-        params:
-            icon: link
-
-comments: false
+  main:
+    weight: 3
 ---
 
-To use this feature, add `links` section to frontmatter.
+Here are a few places I find value, inspiration, or connection online:
 
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+- 🧠 [Marty Cagan — Product Influencer](https://www.svpg.com/team/marty-cagan/)
+- 💼 [My LinkedIn](https://www.linkedin.com/in/stvpjames/)
+- 📰 [News Not Noise — Substack by Jessica Yellin](https://newsnotnoisejessicayellin.substack.com/)
+- 💻 [Hacker News](https://news.ycombinator.com/)
