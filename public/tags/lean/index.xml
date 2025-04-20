@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Lean on Steve&#39;s Blog</title>
+        <link>https://stvpj.com/tags/lean/</link>
+        <description>Recent content in Lean on Steve&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Steve</copyright>
+        <lastBuildDate>Sat, 19 Apr 2025 09:00:00 +0000</lastBuildDate><atom:link href="https://stvpj.com/tags/lean/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>What Lean Really Means</title>
+        <link>https://stvpj.com/p/what-lean-really-means/</link>
+        <pubDate>Sat, 19 Apr 2025 09:00:00 +0000</pubDate>
+        
+        <guid>https://stvpj.com/p/what-lean-really-means/</guid>
+        <description>&lt;img src="https://stvpj.com/p/what-lean-really-means/header.png" alt="Featured image of post What Lean Really Means" /&gt;&lt;h1 id=&#34;lean-thinking-what-it-isand-what-it-isnt&#34;&gt;Lean Thinking: What It Is—and What It Isn’t
+&lt;/h1&gt;&lt;p&gt;Lean is one of the most misunderstood concepts in modern business. It’s often mistaken for a buzzword, a quick-fix method, or worse—just another cost-cutting exercise.&lt;/p&gt;
+&lt;p&gt;Let’s start by setting the record straight.&lt;/p&gt;
+&lt;p&gt;Lean is not:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A miracle cure for all business problems&lt;/li&gt;
+&lt;li&gt;A synonym for “doing more with less” at any cost&lt;/li&gt;
+&lt;li&gt;A new religion, fad, or acronym&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Lean is a long-term, strategic approach to improving how organizations work—one that puts customer value at the centre and treats anything that doesn’t contribute to that value (or the safety, quality, and stability of the organization) as waste.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Lean is a philosophy of continuous improvement that eliminates waste, empowers people, and focuses relentlessly on delivering value to customers.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-three-pillars-of-lean&#34;&gt;The Three Pillars of Lean
+&lt;/h2&gt;&lt;p&gt;All credible definitions of Lean align around three core goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Deliver better value to customers&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Do more with less&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensure quality and long-term sustainability are never compromised&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Organizations that embrace Lean behave in consistent, observable ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Everyone understands what customers truly value&lt;/li&gt;
+&lt;li&gt;Continuous improvement is part of daily operations&lt;/li&gt;
+&lt;li&gt;Respect for people is central&lt;/li&gt;
+&lt;li&gt;The organization aligns long-term thinking with short-term actions&lt;/li&gt;
+&lt;li&gt;Lean becomes part of the culture—not just a program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-toyota-way-14-principles-of-lean-excellence&#34;&gt;The Toyota Way: 14 Principles of Lean Excellence
+&lt;/h2&gt;&lt;p&gt;Jeffrey Liker’s &lt;em&gt;The Toyota Way&lt;/em&gt; breaks Lean into 14 principles, grouped into four themes:&lt;/p&gt;
+&lt;h3 id=&#34;1-philosophy-as-a-foundation&#34;&gt;1. Philosophy as a Foundation
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1. Make decisions based on long-term thinking&lt;/strong&gt;, not short-term gains.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-the-right-process-produces-the-right-results&#34;&gt;2. The Right Process Produces the Right Results
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2. Create continuous flow&lt;/strong&gt; to surface problems&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3. Use pull systems&lt;/strong&gt; to avoid overproduction&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4. Level out workloads&lt;/strong&gt; (heijunka)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5. Stop to fix problems&lt;/strong&gt; and get quality right the first time&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;6. Standardize tasks&lt;/strong&gt; as the basis for improvement and empowerment&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;7. Use visual controls&lt;/strong&gt; so no problems stay hidden&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;8. Use only reliable, thoroughly tested technology&lt;/strong&gt; that supports people&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-add-value-by-developing-people-and-partners&#34;&gt;3. Add Value by Developing People and Partners
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;9. Grow leaders&lt;/strong&gt; who understand and teach the philosophy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;10. Build great teams&lt;/strong&gt; that align with company goals&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;11. Respect partners and suppliers&lt;/strong&gt;—help them improve too&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-continuous-problem-solving-drives-learning&#34;&gt;4. Continuous Problem Solving Drives Learning
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12. Go see for yourself (genchi genbutsu)&lt;/strong&gt; to understand situations&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;13. Make decisions slowly by consensus&lt;/strong&gt;, implement them quickly&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;14. Become a learning organization&lt;/strong&gt; through reflection and improvement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-8-wastes-of-lean&#34;&gt;The 8 Wastes of Lean
+&lt;/h2&gt;&lt;p&gt;Lean identifies 8 common forms of waste, present in both manufacturing and service sectors:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Waiting&lt;/strong&gt; – Delays between process steps&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overproduction&lt;/strong&gt; – Doing more than needed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rework&lt;/strong&gt; – Fixing mistakes or defects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Motion&lt;/strong&gt; – Unnecessary movement of people&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transport&lt;/strong&gt; – Unneeded movement of materials or information&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processing&lt;/strong&gt; – Extra work that doesn’t add value&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventory&lt;/strong&gt; – Excess stock or queued activity&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talent&lt;/strong&gt; – Underusing people&amp;rsquo;s skills and creativity&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-thoughts-lean-as-a-culture-not-a-checklist&#34;&gt;Final Thoughts: Lean as a Culture, Not a Checklist
+&lt;/h2&gt;&lt;p&gt;Lean is not a toolset. It’s a mindset.&lt;br&gt;
+It’s not a one-time transformation—it’s a way of thinking.&lt;/p&gt;
+&lt;p&gt;It asks us to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Empower people&lt;/li&gt;
+&lt;li&gt;Eliminate waste&lt;/li&gt;
+&lt;li&gt;Pursue purpose&lt;/li&gt;
+&lt;li&gt;Continuously improve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It’s hard work. But for organizations willing to commit, Lean offers a path to more meaningful value, healthier teams, and resilient long-term success.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
