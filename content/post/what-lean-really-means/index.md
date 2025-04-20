@@ -1,6 +1,6 @@
 +++
 title = "What Lean Really Means"
-date = 2025-04-21T09:00:00Z
+date = 2025-04-19T09:00:00Z
 draft = false
 slug = "what-lean-really-means"
 url = "/p/what-lean-really-means/"
