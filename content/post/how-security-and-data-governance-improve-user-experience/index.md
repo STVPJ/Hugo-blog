@@ -1,6 +1,6 @@
 +++
 title = "How Security and Data Governance Improve User Experience"
-date = 2025-04-20T00:00:00Z
+date = 2025-04-19T00:00:00Z
 draft = false
 categories = ["Product Management", "User Experience"]
 tags = ["security", "data governance", "trust", "UX", "compliance", "transparency"]
