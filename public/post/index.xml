@@ -7,7 +7,96 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Steve</copyright>
-        <lastBuildDate>Sun, 20 Apr 2025 09:00:00 +0000</lastBuildDate><atom:link href="https://stvpj.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 20 Apr 2025 10:00:00 +0000</lastBuildDate><atom:link href="https://stvpj.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>From Project to Product: A Paradigm Shift for the Age of Software</title>
+        <link>https://stvpj.com/p/from-project-to-product/</link>
+        <pubDate>Sun, 20 Apr 2025 10:00:00 +0000</pubDate>
+        
+        <guid>https://stvpj.com/p/from-project-to-product/</guid>
+        <description>&lt;img src="https://stvpj.com/p/from-project-to-product/header.png" alt="Featured image of post From Project to Product: A Paradigm Shift for the Age of Software" /&gt;&lt;p&gt;&lt;em&gt;By Mik Kersten | Summary by STVPJ&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As we charge into the digital era, the rules of business are rapidly changing. Companies that once dominated their industries are finding themselves outpaced by nimble startups and tech giants who’ve mastered the art of software delivery. In his groundbreaking book, &lt;em&gt;Project to Product&lt;/em&gt;, Mik Kersten reveals why traditional project-based management models are failing and offers a new framework—the &lt;strong&gt;Flow Framework&lt;/strong&gt;—to help organizations survive and thrive in the Age of Software.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-premise-why-the-project-model-is-obsolete&#34;&gt;📉 The Premise: Why the Project Model is Obsolete
+&lt;/h2&gt;&lt;p&gt;Kersten opens the book with a compelling argument: the project-based structures that powered businesses through the Age of Mass Production are no longer fit for today’s software-driven world. Instead of treating software delivery as a series of finite, scope-bound projects, companies must adopt a &lt;strong&gt;product mindset&lt;/strong&gt;—focusing on long-term value streams and continuous delivery.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;We&amp;rsquo;re managing software like we&amp;rsquo;re still building bridges.&amp;rdquo; — Mik Kersten&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;The old model, built for predictability and control, stifles innovation. It creates silos, breaks accountability, and fails to account for the non-linear, iterative nature of modern software development.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-flow-framework-a-new-way-to-think-about-work&#34;&gt;🔄 The Flow Framework: A New Way to Think About Work
+&lt;/h2&gt;&lt;p&gt;At the core of the book is the &lt;strong&gt;Flow Framework&lt;/strong&gt;, Kersten’s blueprint for transforming how organizations manage software delivery. It introduces four types of work items that flow through software value streams:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Features&lt;/strong&gt; – User-driven enhancements&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Defects&lt;/strong&gt; – Quality issues&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risks&lt;/strong&gt; – Security, compliance, or other risk-related work&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debts&lt;/strong&gt; – Technical or infrastructure improvements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These “Flow Items” are the units of measurement in the Flow Framework. Organizations then track &lt;strong&gt;Flow Metrics&lt;/strong&gt; like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Flow Velocity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flow Efficiency&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flow Time&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flow Load&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ultimate goal? &lt;strong&gt;Aligning IT with business outcomes&lt;/strong&gt; in a measurable, real-time way.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-age-of-software-and-the-turning-point&#34;&gt;⚙️ The Age of Software and the Turning Point
+&lt;/h2&gt;&lt;p&gt;Kersten situates this shift in the broader context of Carlota Perez’s theory of technological revolutions. We are now entering the &lt;strong&gt;Deployment Period&lt;/strong&gt; of the &lt;strong&gt;Age of Software&lt;/strong&gt;—the point where companies must either adapt to software-driven ways of working or fade into irrelevance.&lt;/p&gt;
+&lt;p&gt;Companies like &lt;strong&gt;Nokia&lt;/strong&gt; failed, not because they didn’t try to adapt, but because they measured success with flawed metrics—like Agile adoption rates—rather than true value delivery.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-value-streams-the-heart-of-the-product-model&#34;&gt;🧭 Value Streams: The Heart of the Product Model
+&lt;/h2&gt;&lt;p&gt;Kersten urges organizations to orient around &lt;strong&gt;value streams&lt;/strong&gt;, not departments or projects. A value stream represents the end-to-end activities required to deliver value to the customer. Rather than shifting people between projects, companies should:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fund long-lived product teams&lt;/strong&gt;, not one-off projects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Track flow&lt;/strong&gt;, not just budget and timeline&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrate tooling into a seamless Value Stream Network&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-case-studies-and-epiphanies&#34;&gt;📚 Case Studies and Epiphanies
+&lt;/h2&gt;&lt;p&gt;Throughout the book, Kersten shares stories of transformation—both failed and successful. He reflects on lessons from:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The BMW Leipzig plant (a marvel of lean production)&lt;/li&gt;
+&lt;li&gt;Nokia’s Agile rollout&lt;/li&gt;
+&lt;li&gt;A global bank’s $1B transformation gone sideways&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;He outlines &lt;strong&gt;three epiphanies&lt;/strong&gt; from his journey:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Architecture must align to value stream&lt;/strong&gt;, not the reverse&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disconnected toolchains destroy productivity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software is not a pipeline—it’s a collaborative network&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-most-digital-transformations-fail&#34;&gt;💥 Why Most Digital Transformations Fail
+&lt;/h2&gt;&lt;p&gt;Many organizations fail despite well-funded Agile/DevOps efforts. Kersten identifies three core issues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Focus on &lt;strong&gt;activities&lt;/strong&gt; (e.g., Agile training), not &lt;strong&gt;outcomes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Lack of &lt;strong&gt;business–IT alignment&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Inability to &lt;strong&gt;see or measure value flow&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The solution is not more tooling or process frameworks—it’s a shift in mindset and management logic.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-beyond-the-turning-point&#34;&gt;🚀 Beyond the Turning Point
+&lt;/h2&gt;&lt;p&gt;Kersten finishes with a clear call to action. The Age of Software is here, and those who fail to adapt risk becoming obsolete. But those who embrace product thinking and build connected &lt;strong&gt;Value Stream Networks&lt;/strong&gt; will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Deliver better customer outcomes&lt;/li&gt;
+&lt;li&gt;Make smarter investments&lt;/li&gt;
+&lt;li&gt;Attract and retain top talent&lt;/li&gt;
+&lt;li&gt;Regain competitive advantage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tldr-key-takeaways&#34;&gt;🧠 TL;DR: Key Takeaways
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;project model is broken&lt;/strong&gt; for modern software delivery.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;Flow Framework&lt;/strong&gt; replaces it with measurable, value-centric metrics.&lt;/li&gt;
+&lt;li&gt;Shift focus from projects to &lt;strong&gt;products and value streams&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Digital transformation fails without visibility into &lt;strong&gt;Flow&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;The Age of Software demands a &lt;strong&gt;new management paradigm&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Inspired by Mik Kersten’s Project to Product. For more, visit &lt;a class=&#34;link&#34; href=&#34;https://projecttoproduct.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;projecttoproduct.org&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Agile Isn’t What You Think</title>
         <link>https://stvpj.com/p/agile-pitfalls-measuring-value/</link>
         <pubDate>Sun, 20 Apr 2025 09:00:00 +0000</pubDate>
