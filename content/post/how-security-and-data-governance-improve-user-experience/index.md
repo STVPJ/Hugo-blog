@@ -3,6 +3,7 @@ title = "How Security and Data Governance Improve User Experience"
 date = 2025-04-19T00:00:00Z
 draft = false
 categories = ["Product Management", "User Experience"]
+slug = "how-security-and-data-governance-improve-user-experience"
 tags = ["security", "data governance", "trust", "UX", "compliance", "transparency"]
 image = "header.png"
 +++
