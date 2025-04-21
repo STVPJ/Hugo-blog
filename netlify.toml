@@ -6,3 +6,6 @@
   HUGO_VERSION = "0.146.5"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
+
+[functions]
+  directory = "netlify/functions"
