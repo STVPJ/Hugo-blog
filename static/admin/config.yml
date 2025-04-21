@@ -1,8 +1,8 @@
 backend:
-  name: git-gateway
-  branch: main
-  login: true
+  name: auth0
   auth_type: pkce
+  client_id: ${AUTH0_CLIENT_ID}
+  domain: ${AUTH0_DOMAIN}
   base_url: https://stvpj.com
   auth_endpoint: /.netlify/functions/auth
 
