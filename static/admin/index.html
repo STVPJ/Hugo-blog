@@ -1,26 +1,19 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Content Manager</title>
-  </head>
-  <body>
-    <!-- Load Netlify Identity Widget -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      const url = new URL(window.location.href);
+      const inviteToken = url.hash.match(/invite_token=([^&]+)/);
 
-    <!-- Load Netlify CMS -->
-    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js" defer></script>
-
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
+      if (inviteToken) {
+        // If there's an invite token, open the Netlify Identity modal
+        window.netlifyIdentity.open();
+      } else if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
         });
       }
-    </script>
-  </body>
-</html>
+    });
+
+    window.netlifyIdentity.init();
+  }
+</script>
