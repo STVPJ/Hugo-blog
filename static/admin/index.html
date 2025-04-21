@@ -1,19 +1,26 @@
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      const url = new URL(window.location.href);
-      const inviteToken = url.hash.match(/invite_token=([^&]+)/);
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Content Manager</title>
+    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.13/auth0-spa-js.production.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
+    <script src="https://unpkg.com/netlify-cms-auth0/dist/auth0.js"></script>
+  </head>
+  <body>
+    <script>
+      window.CMS_MANUAL_INIT = true;
 
-      if (inviteToken) {
-        // If there's an invite token, open the Netlify Identity modal
-        window.netlifyIdentity.open();
-      } else if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
+      fetch("/.netlify/functions/auth")
+        .then((res) => res.json())
+        .then(({ msg }) => {
+          console.log(msg);
+
+          CMS.init({
+            config: "/admin/config.yaml",
+            authProvider: "auth0"
+          });
         });
-      }
-    });
-
-    window.netlifyIdentity.init();
-  }
-</script>
+    </script>
+  </body>
+</html>
