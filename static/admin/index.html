@@ -3,23 +3,13 @@
   <head>
     <meta charset="utf-8" />
     <title>Content Manager</title>
-    <script src="https://cdn.auth0.com/js/auth0-spa-js/1.13/auth0-spa-js.production.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
-    <script>
-      window.CMS_MANUAL_INIT = true;
+    <!-- Mount point for CMS UI -->
+    <div id="nc-root"></div>
 
-      fetch("/.netlify/functions/auth")
-        .then((res) => res.json())
-        .then(({ msg }) => {
-          console.log(msg);
-
-          CMS.init({
-            config: "/admin/config.yaml",
-            authProvider: "auth0"
-          });
-        });
-    </script>
+    <!-- Netlify CMS + Auth0 bundle -->
+    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
   </body>
 </html>
