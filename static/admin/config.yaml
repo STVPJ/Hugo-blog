@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: auth0
+  domain: dev-okdrcvrv6dhxu542.auth0.com
+  clientId: Rhz8LwFDYIxMZB7Jdey3FTGtgid2LdZZ
+  login: true
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
