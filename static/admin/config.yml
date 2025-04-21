@@ -1,10 +1,8 @@
 backend:
   name: auth0
-  auth_type: pkce
-  client_id: ${AUTH0_CLIENT_ID}
-  domain: ${AUTH0_DOMAIN}
+  app_id: Rhz8LwFDYIxMZB7Jdey3FTGtgid2LdZZ
   base_url: https://stvpj.com
-  auth_endpoint: /.netlify/functions/auth
+  auth_url: https://stvpj.com/.netlify/functions/auth
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
@@ -16,12 +14,6 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Date"
-        name: "date"
-        widget: "datetime"
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
