@@ -1,8 +1,8 @@
 backend:
-  name: auth0
-  domain: ${AUTH0_DOMAIN}
-  clientId: ${AUTH0_CLIENT_ID}
-  login: true
+  name: github
+  repo: STVPJ/Hugo-blog  # Replace with your actual GitHub username/repo
+  branch: main
+  auth_scope: repo
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"

@@ -7,13 +7,10 @@
   </head>
   <body>
     <script>
-      window.addEventListener('load', function () {
-        if (window.NetlifyCmsApp) {
-          NetlifyCmsApp.init();
-        } else {
-          console.error('Netlify CMS not found');
-        }
-      });
+      // This will initialize the CMS
+      if (window.CMS) {
+        window.CMS.init();
+      }
     </script>
   </body>
 </html>
