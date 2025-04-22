@@ -4,17 +4,14 @@
     <meta charset="utf-8" />
     <title>Content Manager</title>
     <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/netlify-cms-auth0@1.0.0/dist/auth0.min.js"></script>
   </head>
   <body>
     <script>
-      // Wait until both scripts have fully loaded before initializing
       window.addEventListener('load', function () {
-        if (window.NetlifyCmsApp && window.Auth0Backend) {
-          NetlifyCmsApp.registerBackend('auth0', Auth0Backend);
+        if (window.NetlifyCmsApp) {
           NetlifyCmsApp.init();
         } else {
-          console.error('Netlify CMS or Auth0 backend not found');
+          console.error('Netlify CMS not found');
         }
       });
     </script>
