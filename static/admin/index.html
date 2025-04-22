@@ -3,14 +3,17 @@
   <head>
     <meta charset="utf-8" />
     <title>Content Manager</title>
-    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
+    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js" defer></script>
   </head>
   <body>
     <script>
-      // This will initialize the CMS
-      if (window.CMS) {
-        window.CMS.init();
-      }
+      window.addEventListener("load", () => {
+        if (window.CMS) {
+          window.CMS.init();
+        } else {
+          console.error("Netlify CMS failed to load");
+        }
+      });
     </script>
   </body>
 </html>
