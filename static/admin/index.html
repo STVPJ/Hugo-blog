@@ -3,12 +3,24 @@
   <head>
     <meta charset="utf-8" />
     <title>Content Manager</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
   <body>
+    <!-- CMS Core -->
     <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
-    <script src="https://unpkg.com/netlify-cms-auth0@^0.1.3/dist/auth0.js"></script>
+
+    <!-- Auth0 Backend Plugin (Corrected Source) -->
+    <script src="https://cdn.jsdelivr.net/npm/netlify-cms-auth0@1.0.0/dist/auth0.min.js"></script>
+
+    <!-- Register Auth0 Backend -->
     <script>
-      CMS.registerBackend('auth0', Auth0Backend);
+      if (window.NetlifyCmsAuth0 && window.NetlifyCmsAuth0.Auth0Backend) {
+        CMS.registerBackend('auth0', window.NetlifyCmsAuth0.Auth0Backend);
+      } else {
+        console.error('NetlifyCmsAuth0 plugin failed to load.');
+      }
+
+      CMS.init();
     </script>
   </body>
 </html>
