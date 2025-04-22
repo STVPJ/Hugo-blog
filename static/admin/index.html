@@ -4,13 +4,18 @@
     <meta charset="utf-8" />
     <title>Content Manager</title>
     <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
-    <script>
-      window.CMS_MANUAL_INIT = true;
-    </script>
   </head>
   <body>
     <script>
-      NetlifyCmsApp.init();
+      window.CMS_MANUAL_INIT = true;
+    </script>
+
+    <script>
+      if (typeof NetlifyCmsApp !== 'undefined') {
+        NetlifyCmsApp.init();
+      } else {
+        console.error("NetlifyCmsApp not found. CMS script may not have loaded.");
+      }
     </script>
   </body>
 </html>
