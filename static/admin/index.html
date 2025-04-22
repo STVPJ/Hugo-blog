@@ -5,7 +5,15 @@
     <title>Content Manager</title>
   </head>
   <body>
-    <!-- Load CMS script -->
-    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js" onload="window.CMS_MANUAL_INIT = true; if (window.NetlifyCmsApp) NetlifyCmsApp.init();"></script>
+    <!-- CMS core script -->
+    <script src="https://unpkg.com/netlify-cms@^2.10.0/dist/netlify-cms.js"></script>
+
+    <!-- Auth0 backend plugin (must be registered before init) -->
+    <script type="module">
+      import Auth0Backend from "https://cdn.jsdelivr.net/npm/netlify-cms-auth0@1.0.0/dist/auth0.min.js";
+      window.CMS_MANUAL_INIT = true;
+      window.NetlifyCmsApp.init({ config: window.CMS_CONFIG });
+      window.CMS.registerBackend("auth0", Auth0Backend);
+    </script>
   </body>
 </html>
