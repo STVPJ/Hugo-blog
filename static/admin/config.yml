@@ -1,7 +1,7 @@
 backend:
   name: auth0
-  app_id: ${AUTH0_CLIENT_ID}
-  base_url: ${AUTH0_DOMAIN}
+  domain: ${AUTH0_DOMAIN}
+  clientId: ${AUTH0_CLIENT_ID}
   login: true
 
 media_folder: "static/images/uploads"
@@ -14,6 +14,12 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
