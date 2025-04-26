@@ -7,6 +7,7 @@ url = "/p/how-security-and-data-governance-improve-user-experience/"
 categories = ["Product Management", "User Experience"]
 tags = ["security", "data governance", "trust", "UX", "compliance", "transparency"]
 image = "header.png"
+comments: true
 +++
 
 **Enhancing User Experience through Security and Data Governance: A Product Manager's Perspective**

@@ -8,6 +8,7 @@ type = "post"
 categories = ["process improvement", "business strategy", "organizational change"]
 tags = ["lean", "continuous improvement", "waste", "kaizen", "Toyota Way"]
 image = "header.png"
+comments: true
 +++
 
 # Lean Thinking: What It Is—and What It Isn’t

@@ -5,6 +5,7 @@ title = 'Why Product Managers Should Trust Their Gut When Data Falls Short'
 categories = ["Product Thinking", "Decision Making"]
 tags = ["intuition", "data", "product management", "PM tips"]
 image = "header.png"
+comments: true
 +++
 # Why Product Managers Should Trust Their Gut When Data Falls Short
 

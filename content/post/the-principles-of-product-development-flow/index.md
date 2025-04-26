@@ -7,6 +7,7 @@ tags: ["Book Review", "Product Development", "Flow", "Agile", "Product Managemen
 categories: ["Book Reviews"]
 draft: false
 image: "header.png"
+comments: true
 ---
 
 # 📖 Book Review: *The Principles of Product Development Flow* – A Masterclass in Modern Software Development Thinking
