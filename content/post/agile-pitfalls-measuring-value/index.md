@@ -8,7 +8,7 @@ type = "post"
 tags = ["agile", "product-management", "value", "velocity", "product-strategy"]
 categories = ["product-thinking", "delivery", "decision-making"]
 image = "header.png"
-comments: true
+comments = true
 +++
 
 ## The Pitfalls of One-Size-Fits-All Agile: Why Most Agile Implementations Miss the Point
