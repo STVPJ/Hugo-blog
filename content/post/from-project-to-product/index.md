@@ -8,8 +8,9 @@ type = "post"
 categories = ["product thinking", "software delivery", "Book Reviews"]
 tags = ["flow framework", "product-thinking", "digital transformation"]
 image = "header.png"
-comments: true
+comments = true
 +++
+
 *By Mik Kersten | Summary by STVPJ*
 
 As we progress through the digital era, the rules of business are rapidly changing. Companies that once dominated their industries are finding themselves outpaced by nimble startups and tech giants who’ve mastered the art of software delivery. In his groundbreaking book, *Project to Product*, Mik Kersten reveals why traditional project-based management models are failing and offers a new framework—the **Flow Framework**—to help organizations survive and thrive in the Age of Software.

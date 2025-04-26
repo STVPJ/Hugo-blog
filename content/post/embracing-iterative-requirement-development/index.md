@@ -7,6 +7,7 @@ tags: ["Product Ownership", "Agile", "Requirement Development", "Empiricism", "P
 categories: ["Product Management"]
 draft: false
 image: "header.png"
+comments: true
 ---
 
 # Embracing Iterative Requirement Development in Product Ownership
