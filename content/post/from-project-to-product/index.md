@@ -1,5 +1,6 @@
 +++
 title = "From Project to Product: A Paradigm Shift for the Age of Software"
+description = "A summary of Mik Kersten’s 'Project to Product,' exploring why traditional project models are failing and how the Flow Framework can help organizations thrive in the Age of Software."
 date = 2025-04-20T10:00:00Z
 draft = false
 slug = "from-project-to-product"

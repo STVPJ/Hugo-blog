@@ -2,6 +2,7 @@
 date = '2025-04-20T09:08:36+01:00'
 draft = false
 title = 'Why Product Managers Should Trust Their Gut When Data Falls Short'
+description = "Why great Product Managers know when to trust their intuition—especially when data is incomplete, unavailable, or unable to guide breakthrough innovation."
 categories = ["Product Thinking", "Decision Making"]
 tags = ["intuition", "data", "product management", "PM tips"]
 image = "header.png"

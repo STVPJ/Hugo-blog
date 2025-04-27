@@ -1,5 +1,6 @@
 +++
 title = "What Lean Really Means"
+description = "A clear and practical look at what Lean really means, why it’s often misunderstood, and how embracing true Lean principles can drive lasting customer value, quality, and continuous improvement."
 date = 2025-04-19T09:00:00Z
 draft = false
 slug = "what-lean-really-means"

@@ -1,5 +1,6 @@
 +++
 title = "Agile Isn’t What You Think"
+description = "A deep dive into why most Agile implementations miss the point, how focusing on velocity over value undermines true agility, and what it really takes to embrace uncertainty and deliver meaningful outcomes."
 date = 2025-04-20T09:00:00+00:00
 draft = false
 slug = "agile-pitfalls-measuring-value"
