@@ -106,25 +106,25 @@ menu:
       name: LinkedIn
       url: https://www.linkedin.com/in/stvpjames/
       params:
-        icon: link
+        icon: brand-linkedin
 
     - identifier: instagram
       name: Instagram
       url: https://www.instagram.com/stvpj/
       params:
-        icon: user
+        icon: brand-instagram
 
     - identifier: mastodon
       name: Mastodon
       url: https://mastodon.social/@Stvpj
       params:
-        icon: rss
+        icon: brand-mastodon
 
     - identifier: bluesky
       name: Bluesky
       url: https://bsky.app/profile/stvpj.com
       params:
-        icon: link
+        icon: brand-bluesky
 
 related:
   includeNewer: true
