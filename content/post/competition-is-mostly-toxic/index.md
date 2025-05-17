@@ -6,7 +6,7 @@ date: 2025-05-17
 tags: ["Competition", "Business", "Sports", "Evolution", "Collaboration", "Mastery"]
 categories: ["Society", "Workplace", "Productivity"]
 draft: false
-image: "competition-header.png"
+image: "header.png"
 comments: true
 ---
 
