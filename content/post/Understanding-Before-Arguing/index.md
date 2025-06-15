@@ -16,9 +16,9 @@ Recently, I came across a quote from Charlie Munger that has been stuck in my he
 
 At first glance, it seems like common sense. But the more I sit with it, the more I realise how rare, and radical, it actually is.
 
-We live in a time where belief, not evidence, not nuance, not data, often seems to be the primary currency for truth. As long as something aligns with what we already think, it feels “right.” The problem is, that kind of thinking doesn’t leave a lot of room for understanding. It turns political identity into a kind of faith system: _I believe, therefore it is true. You don’t, therefore you are wrong — or worse, dangerous._
+We live in a time where belief, not evidence, not nuance, not data, often seems to be the primary currency for truth. As long as something aligns with what we already think, it feels “right.” The problem is, that kind of thinking doesn’t leave a lot of room for understanding. It turns political identity into a kind of faith system: _I believe, therefore it is true. You don’t, therefore you are wrong, or worse, dangerous._
 
-What Munger’s talking about is a kind of intellectual discipline — or maybe just humility. It’s the idea that before you criticise someone’s viewpoint, you should be able to explain it fairly and fully, in a way they would recognise. It’s not about agreeing with them. It’s about giving their position the respect of genuine attention.
+What Munger’s talking about is a kind of intellectual discipline, or maybe just humility. It’s the idea that before you criticise someone’s viewpoint, you should be able to explain it fairly and fully, in a way they would recognise. It’s not about agreeing with them. It’s about giving their position the respect of genuine attention.
 
 ---
 
@@ -26,7 +26,7 @@ What Munger’s talking about is a kind of intellectual discipline — or maybe 
 
 I think about this every time I scroll through political debates online. So many arguments are just people yelling past each other, beating up a cartoon version of the other side. We call this **strawmanning**, the act of misrepresenting someone’s position so it’s easier to attack. Instead of engaging with what someone actually believes, we invent a flimsy imitation and tear that down.
 
-Closely related, and just as common, is the misuse of a rhetorical tool called **_reductio ad absurdum_**. In its proper form, it’s a logical technique used to disprove a point by showing that it leads to an absurd or contradictory outcome ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/reductio-absurdum/)). But in everyday argument, it’s often weaponised: someone exaggerates their opponent’s view to an extreme or ridiculous scenario, and then critiques that instead.
+Closely related, and just as common, is the misuse of a rhetorical tool called **_reductio ad absurdum_**. In its proper form, it’s a logical technique used to disprove a point by showing that it leads to an absurd or contradictory outcome ([Britanica](https://www.britannica.com/topic/reductio-ad-absurdum)). But in everyday argument, it’s often weaponised: someone exaggerates their opponent’s view to an extreme or ridiculous scenario, and then critiques that instead.
 
 For example:  
 > “You want to regulate car emissions? What’s next — banning all cars and making us walk to work?”
@@ -56,7 +56,7 @@ Both positions reflect the complexity of belief. But in public discourse, when b
 
 ## This Isn’t Just Politics
 
-It’s tempting to think this only applies to politics — Labour vs Tory, Democrat vs Republican, Leave vs Remain. But the same dynamic shows up everywhere:
+It’s tempting to think this only applies to politics, Labour vs Tory, Democrat vs Republican, Leave vs Remain. But the same dynamic shows up everywhere:
 
 - **iOS vs Android**
 - **Religion vs Atheism**
