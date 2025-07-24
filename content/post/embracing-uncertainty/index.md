@@ -50,14 +50,14 @@ In trying to remove variability, we remove the very conditions required for disc
 
 ## Variability Is the Work
 
-Lean and Agile weren’t designed to enforce predictability — they were created to **manage variability in service of value**.
+Lean and Agile weren’t designed to enforce predictability, they were created to **manage variability in service of value**.
 
 > “Responding to change over following a plan.”  
 > — [Agile Manifesto](https://agilemanifesto.org/)
 
 Marty Cagan is clear on this point in [_Inspired_](https://www.svpg.com/inspired-how-to-create-products-customers-love/):
 
-> “No software development methodology — Agile, Lean, or otherwise — can ensure predictability.”
+> “No software development methodology, Agile, Lean, or otherwise, can ensure predictability.”
 
 The goal is not to follow a plan perfectly. It’s to inspect, adapt, and course-correct based on what you learn. As [Dan North](https://dannorth.net/) puts it:
 
