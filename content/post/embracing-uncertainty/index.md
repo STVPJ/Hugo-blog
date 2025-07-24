@@ -2,7 +2,7 @@
 title: "🧭 The Innovation-Killing Myth of Predictability"
 description: "How our obsession with certainty is undermining our ability to innovate, and what we should do instead."
 author: "Steve James"
-date: 2025-07-20
+date: 2025-07-24
 tags: ["Innovation", "Software Development", "Uncertainty", "Agile", "Product Management"]
 categories: ["Product Thinking", "Leadership"]
 draft: false
@@ -19,14 +19,14 @@ For decades, businesses have treated predictability as the holy grail of softwar
 
 ## Why Innovation Matters More Than Ever
 
-Chasing predictable practices leads to predictable outcomes. And while predictability might offer short-term comfort, it rarely delivers long-term growth. Innovation is the engine of differentiation. Without it, your product or service becomes commoditised — and when you’re only competing on price, you're in a race to the bottom.
+Chasing predictable practices leads to predictable outcomes. And while predictability might offer short-term comfort, it rarely delivers long-term growth. Innovation is the engine of differentiation. Without it, your product or service becomes commoditised, and when you’re only competing on price, you're in a race to the bottom.
 
 As [Scott Galloway](https://profgalloway.com/) puts it, there are three questions every product or service must answer to succeed:
 
 ### 1. Differentiation  
 > Is the product or service truly differentiated? Does the strategy clear the hurdle of differentiation from our competitors?
 
-If your offering isn’t meaningfully different, then why should customers choose you? Innovation is how you escape the sea of sameness. Differentiation isn’t just about having more features — it’s about positioning, usability, quality, emotional appeal, and solving a real pain better than anyone else. If you look like everyone else in your market, then price is all that’s left to compete on.
+If your offering isn’t meaningfully different, then why should customers choose you? Innovation is how you escape the sea of sameness. Differentiation isn’t just about having more features, it’s about positioning, usability, quality, emotional appeal, and solving a real pain better than anyone else. If you look like everyone else in your market, then price is all that’s left to compete on.
 
 ### 2. Relevance  
 > Does anyone care about the differentiation?
@@ -42,7 +42,7 @@ In short: without innovation, your brand is just a logo. With it, you build some
 
 ## The Cost of Certainty
 
-Donald Reinertsen, in [_The Principles of Product Development Flow_](https://www.goodreads.com/en/book/show/6670381), puts it succinctly:
+Donald Reinertsen, in [_The Principles of Product Development Flow_](https://www.amazon.com/dp/1935401009), puts it succinctly:
 
 > “We will create risk-averse development processes that strive to 'do it right the first time.' This risk aversion will drive innovation out of our development process.”
 
@@ -59,9 +59,11 @@ Marty Cagan is clear on this point in [_Inspired_](https://www.svpg.com/inspired
 
 > “No software development methodology — Agile, Lean, or otherwise — can ensure predictability.”
 
-As [Dan North](https://dannorth.net/2011/01/11/what-is-behaviour-driven-development/) puts it:
+The goal is not to follow a plan perfectly. It’s to inspect, adapt, and course-correct based on what you learn. As [Dan North](https://dannorth.net/) puts it:
 
 > “Predictability is a trap. If you're measuring success by your ability to predict the future, you’re optimising for the wrong thing.”
+
+Agile works not because it avoids variability, but because it embraces it.
 
 ## Context Matters: The Cynefin Framework
 
@@ -75,7 +77,7 @@ In [_The Phoenix Project_](https://itrevolution.com/the-phoenix-project/), Gene 
 
 > “Local optimisations are the enemy of global flow.”
 
-When teams are judged by outputs instead of outcomes, they optimise for activity — not value. As Marty Cagan reinforces in [_Empowered_](https://www.svpg.com/empowered-ordinary-people-extraordinary-products/):
+When teams are judged by outputs instead of outcomes, they optimise for activity, not value. As Marty Cagan reinforces in [_Empowered_](https://www.svpg.com/empowered-ordinary-people-extraordinary-products/):
 
 > “Empowered product teams are assigned problems to solve... and are held accountable to results.”
 
@@ -87,7 +89,7 @@ In [_Antifragile_](https://www.goodreads.com/book/show/13530973-antifragile), Na
 
 > “If you see fraud and do not say fraud, you are a fraud.”
 
-We pretend to plan our way out of complexity. But planning is not foresight — it’s often just structured denial.
+We pretend to plan our way out of complexity. But planning is not foresight, it’s often just structured denial.
 
 ## A Better Way Forward
 
@@ -114,9 +116,9 @@ We pretend to plan our way out of complexity. But planning is not foresight — 
 
 ## Final Thoughts
 
-Predictability isn’t inherently bad — but it must be applied with care. Roadmaps, OKRs, and deadlines are tools, not doctrine. When everything is optimised for predictability, innovation withers.
+Predictability isn’t inherently bad, but it must be applied with care. Roadmaps, OKRs, and deadlines are tools, not doctrine. When everything is optimised for predictability, innovation withers.
 
-The real work of building great products lies in navigating uncertainty — not eliminating it.
+The real work of building great products lies in navigating uncertainty, not eliminating it.
 
 Because if you can predict it, you’re probably not innovating.
 
