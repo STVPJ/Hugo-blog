@@ -31,7 +31,7 @@ If your offering isn’t meaningfully different, then why should customers choos
 ### 2. Relevance  
 > Does anyone care about the differentiation?
 
-Relevance is the filter that determines whether differentiation has any actual value. You might have an elegant solution, but if it doesn’t speak to your users' jobs-to-be-done, it's irrelevant. Relevance means being attuned to changing customer needs, market dynamics, and usage patterns. It’s not just about what you can do — it’s about what your users are trying to do.
+Relevance is the filter that determines whether differentiation has any actual value. You might have an elegant solution, but if it doesn’t speak to your users' jobs-to-be-done, it's irrelevant. Relevance means being attuned to changing customer needs, market dynamics, and usage patterns. It’s not just about what you can do, it’s about what your users are trying to do.
 
 ### 3. Sustainability  
 > What steps can we take to ensure that our products and services continue to be differentiated and relevant?
