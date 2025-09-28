@@ -1,6 +1,6 @@
 ---
 title: "🤖 Product Management at the AI Turning Point: Why the Next Age Demands a New Role"
-description: "AI won’t just change our products, it will change what ‘work’ is. Drawing on Carlota Perez, Mik Kersten, Paweł Huryn, Miqdad Jaffer, Marty Cagan and others, here’s how Product Managers must adapt."
+description: "AI is reshaping not just the products we build but the very nature of work itself. For Product Managers, this turning point demands a shift in mindset, moving beyond execution to strategy, ethics, and orchestration."
 author: "Steve James"
 date: 2025-09-28
 tags: ["AI", "Product Management", "Technological Revolutions", "Carlota Perez", "Mik Kersten", "Pawel Huryn", "Miqdad Jaffer"]
@@ -18,7 +18,7 @@ Mik Kersten’s *Project to Product* extends this lens to modern software and be
 
 It’s not surprising then that this is dominating conversation. A quick Google search for “Product Management and AI” returns tens of thousands of results across blogs, newsletters, and LinkedIn posts. The sheer volume of writing on the subject is a signal that product leaders everywhere are grappling with the implications of this paradigm shift, wondering what parts of their role will endure and which will be automated away.
 
-**This post argues** we’re living through such a turning point with AI. But unlike prior shifts, AI targets **cognitive work itself**. That means Product Managers (PMs) can’t just adopt “a framework”, they must operate at a new altitude, because AI will swallow many junior-level tasks. Drawing on Perez, Kersten, Paweł Huryn & Miqdad Jaffer’s *AI PRD*, plus Marty Cagan, Lenny Rachitsky and others, here’s a practical, grounded take on the new PM role.
+**AI is reshaping not just the products we build but the very nature of work itself. For Product Managers, this turning point demands a shift in mindset, moving beyond execution to strategy, ethics, and orchestration.**
 
 ---
 
@@ -73,9 +73,9 @@ Lenny Rachitsky echoes this: AI will automate some PM activities, while amplifyi
 
 ---
 
-## 4) A possible playbook to adapt (now)
+## 4) A possible playbook to adapt
 
-Turning theory into practice requires Product Managers to rethink *how* they do their day-to-day work. The skills below are not “optional extras”, they are becoming the baseline. Here’s how each can be approached differently in the age of AI, with examples of what this might look like.
+There is no single blueprint for how Product Managers should respond to the AI era. Each organisation, product, and market context will be different. That said, there are some patterns that appear promising, and which could serve as a starting point for PMs looking to adapt. Think of this less as a prescriptive checklist and more as a set of suggestions that might help guide your approach.
 
 ### Build AI literacy and “AI product sense”
 
